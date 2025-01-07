@@ -1,0 +1,16 @@
+.yarn
+.pnp*
+yarn.lock
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Prisma
+
+prisma/migrations/
+
+# Editor-specific files
+.vscode/
